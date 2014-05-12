@@ -1,0 +1,1 @@
+Python interface for [Baidu suggestions](http://baidu.com)
